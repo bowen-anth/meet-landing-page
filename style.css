@@ -75,7 +75,7 @@ body {
   line-height: 1.625rem; /* 162.5% */
 }
 
-.download-button:active {
+.download-button:hover {
   background-color: var(--primary-active-color);
 }
 
@@ -97,7 +97,7 @@ body {
   line-height: 1.625rem; /* 162.5% */
 }
 
-.what-button:active {
+.what-button:hover {
   background-color: var(--secondary-active-color);
 }
 
@@ -270,7 +270,7 @@ body {
   margin-top: 3.5em;
 }
 
-.footer-wrapper .download-button:active {
+.footer-wrapper .download-button:hover {
   background-color: var(--secondary-active-color);
 }
 
